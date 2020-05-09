@@ -18,4 +18,20 @@ body {
   margin: 50px auto;
   background-color: #fff;
   padding: 5%;
+  max-height: 350px
+}
+
+#container img {
+width: 800px;
+height: 250px;
+}
+ul li {
+display: inline;
+background-color: red;
+padding: 5px;
+margin-right: 20px;
+}
+a {
+  color: white;
+  text-decoration: none;
 }
