@@ -16,6 +16,22 @@ body {
 #container {
   width: 65%;
   margin: 50px auto;
-  background-color: #fff;
+  background-color: #000;
   padding: 5%;
+}
+
+ul li {
+  display: inline;
+  margin-right: 15px;
+  border: gold;
+  border-width: 7,5px;
+  border-style: solid;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 25px;
+  
+}
+
+ul li a {
+  padding: 25px;
 }
